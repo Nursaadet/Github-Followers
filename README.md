@@ -6,6 +6,12 @@ This is a simple web application that displays the followers of a GitHub user. A
 
 Check out the live demo: [https://nursaadet.github.io/Github-Followers/](https://nursaadet.github.io/Github-Followers/)
 
+## 📸 Preview
+
+<p align="center">
+  <img src="./project.gif" alt="Project Demo" width="600"/>
+</p>
+
 ## 🧑‍💻 Author
 
 [@nursaadet](https://github.com/nursaadet)
